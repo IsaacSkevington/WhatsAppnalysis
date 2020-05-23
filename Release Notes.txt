@@ -1,0 +1,2 @@
+Program Version: 0.8.6
+Updater Version: 0.7.1
