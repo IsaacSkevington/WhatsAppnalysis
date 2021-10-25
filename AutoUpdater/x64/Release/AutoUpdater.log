@@ -1,0 +1,7 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(496,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  AutoUpdater.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 183 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AutoUpdater.vcxproj -> D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\x64\Release\AutoUpdater\AutoUpdater.exe

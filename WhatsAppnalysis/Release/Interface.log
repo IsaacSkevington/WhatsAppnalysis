@@ -1,0 +1,432 @@
+﻿  UserInterface.cpp
+F:\all\Code\C++\UserInterface\Interface\Line.h(58,42): warning C4018: '<=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Line.h(56,7): warning C4101: 'charcorrect': unreferenced local variable
+F:\all\Code\C++\UserInterface\Interface\String Processing Functions.h(16,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\String Processing Functions.h(26,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Time Period Finding Functions.h(75,6): warning C4101: 'timesinmessage': unreferenced local variable
+F:\all\Code\C++\UserInterface\Interface\Time Period Finding Functions.h(154,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\Time Period Finding Functions.h(155,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\Validation.h(25,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Validation.h(54,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Validation.h(72,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Validation.h(114,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Array Processing Functions.h(18,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Array Processing Functions.h(29,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Array Processing Functions.h(39,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Array Processing Functions.h(57,32): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Array Processing Functions.h(113,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Array Processing Functions.h(123,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Array Processing Functions.h(143,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Array Processing Functions.h(153,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Array Processing Functions.h(172,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Array Processing Functions.h(179,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Map Processing Functions.h(24,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Map Processing Functions.h(37,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Map Processing Functions.h(53,30): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Map Processing Functions.h(54,35): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Map Processing Functions.h(78,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\Map Processing Functions.h(87,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MessageStreamProcessor.h(202,27): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MessageStreamProcessor.h(220,27): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MessageStreamProcessor.h(225,27): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MessageStreamProcessor.h(199,7): warning C4101: 'hour': unreferenced local variable
+F:\all\Code\C++\UserInterface\Interface\MessageStreamProcessor.h(404,7): warning C4101: 'dayinteger': unreferenced local variable
+F:\all\Code\C++\UserInterface\Interface\MessageStreamProcessor.h(698,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MessageStreamProcessor.h(735,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MessageStreamProcessor.h(785,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MessageStreamProcessor.h(858,37): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MessageStreamProcessor.h(870,37): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\graphing.h(36,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\graphing.h(39,17): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\graphing.h(120,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\graphing.h(123,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\graphing.h(133,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\graphing.h(224,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\graphing.h(226,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\graphing.h(231,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\graphing.h(235,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\graphing.h(237,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\graphing.h(242,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\graphing.h(277,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\graphing.h(298,88): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+F:\all\Code\C++\UserInterface\Interface\graphing.h(298,61): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+F:\all\Code\C++\UserInterface\Interface\graphing.h(301,30): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\graphing.h(311,147): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+F:\all\Code\C++\UserInterface\Interface\graphing.h(311,115): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+F:\all\Code\C++\UserInterface\Interface\graphing.h(311,86): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+F:\all\Code\C++\UserInterface\Interface\graphing.h(311,50): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+F:\all\Code\C++\UserInterface\Interface\graphing.h(363,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\graphing.h(369,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\graphing.h(379,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\graphing.h(385,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(42,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(44,44): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(218,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(219,49): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(243,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(244,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(245,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(251,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(252,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(253,69): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(273,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(279,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(281,9): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(283,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(289,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(290,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(313,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(317,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(328,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(332,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(341,29): warning C4018: '>': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(359,30): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(373,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(385,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(387,58): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(396,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(405,69): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(406,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(409,69): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(410,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(420,39): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(427,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(429,60): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(438,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(447,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(448,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(451,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(452,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\MultiThread Functions.h(462,40): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UIFunctions.h(81,20): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UIFunctions.h(234,39): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(632,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(638,49): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(649,61): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(651,44): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(655,55): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(657,50): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(660,54): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(699,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(702,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(704,51): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(707,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(717,51): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(720,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(621,6): warning C4101: 'hdc': unreferenced local variable
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(622,14): warning C4101: 'ps': unreferenced local variable
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(882,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(887,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(894,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(897,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(900,69): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(901,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(996,7): warning C4805: '!=': unsafe mix of type 'UINT' and type 'bool' in operation
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1085,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1087,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1090,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1102,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1104,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1107,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1123,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1125,60): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1134,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1143,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1144,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1147,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1148,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1159,41): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1168,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1170,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1173,72): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1177,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1179,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1188,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1197,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1198,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1201,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1202,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1205,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1216,42): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1224,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1226,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1235,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1244,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1245,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1248,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1249,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1252,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1263,43): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1289,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1293,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1295,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1301,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1313,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1315,80): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1319,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1322,14): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1332,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1335,14): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1347,13): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1368,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1372,25): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1383,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1387,25): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1396,31): warning C4018: '>': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1414,32): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1428,24): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(781,14): warning C4101: 'ps': unreferenced local variable
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1570,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1575,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1581,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1584,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1618,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1624,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1625,10): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1627,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1633,72): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1634,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1676,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1680,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1702,31): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1716,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1726,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1728,59): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1737,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1746,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1747,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1750,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1751,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1769,40): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1780,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1782,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1791,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1800,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1801,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1804,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1805,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1815,42): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1823,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1825,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1834,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1843,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1844,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1847,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1848,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1858,41): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1902,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1904,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1907,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1919,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1921,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1924,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1991,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(1993,60): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2002,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2011,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2012,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2015,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2016,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2026,41): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2036,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2038,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2041,72): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2044,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2046,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2055,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2064,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2065,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2068,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2069,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2072,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2084,43): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2092,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2094,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2103,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2112,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2113,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2116,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2117,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2120,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2132,42): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2144,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2148,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2150,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2156,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2168,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2170,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2174,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2177,13): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2187,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2190,13): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2202,12): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2223,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2227,24): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2238,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2242,24): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2253,30): warning C4018: '>': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2274,31): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2288,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2400,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2405,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2411,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2414,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2418,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2419,69): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2487,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2488,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2499,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2502,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2506,24): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2512,31): warning C4018: '>': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2532,32): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2542,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2570,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2572,60): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2581,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2590,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2591,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2594,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2595,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2606,41): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2660,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2662,60): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2671,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2680,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2681,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2684,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2685,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2695,41): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2707,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2712,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2714,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2720,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2739,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2744,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2748,24): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2757,31): warning C4018: '>': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2777,32): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2791,24): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2902,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2907,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2913,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2916,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2950,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2956,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2957,10): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2959,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2965,72): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(2966,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3008,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3012,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3039,31): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3053,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3063,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3065,59): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3074,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3083,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3084,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3087,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3088,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3106,40): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3117,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3119,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3128,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3137,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3138,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3141,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3142,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3152,42): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3160,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3162,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3171,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3180,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3181,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3184,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3185,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3195,41): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3239,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3241,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3244,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3256,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3258,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3261,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3328,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3330,60): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3339,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3348,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3349,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3352,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3353,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3363,41): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3373,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3375,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3378,72): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3381,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3383,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3392,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3401,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3402,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3405,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3406,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3409,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3421,43): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3429,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3431,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3440,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3449,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3450,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3453,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3454,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3457,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3469,42): warning C4018: '>=': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3481,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3485,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3487,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3493,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3505,21): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3507,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3511,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3514,13): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3524,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3527,13): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3539,12): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3560,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3564,24): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3580,22): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3584,24): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3586,159): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3595,30): warning C4018: '>': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3616,31): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3630,23): warning C4018: '<': signed/unsigned mismatch
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3695,16): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+F:\all\Code\C++\UserInterface\Interface\UserInterface.cpp(3743,15): warning C4101: 'ps': unreferenced local variable
+LINK : fatal error LNK1104: cannot open file 'libboost_serialization-vc142-mt-x32-1_72.lib'
