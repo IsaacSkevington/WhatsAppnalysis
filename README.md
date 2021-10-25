@@ -7,7 +7,7 @@ Install the program using either the msi file or executable installer located in
 # Compiling from source
 Download the repository and open WhatsAppnalysis.sln, then run the build.  
 NOTE: [boost libraries](https://www.boost.org/) are needed to compile the source code.   
-In the WhatsAppnalysis project settings.  
+In the WhatsAppnalysis project settings:  
   - The top level directory must be added to 'Additional Includes'
   - The stage/lib directory needs to be added to the linker 'Additional Library Directories'  
 
