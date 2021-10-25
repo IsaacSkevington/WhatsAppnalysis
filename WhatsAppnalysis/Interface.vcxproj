@@ -156,7 +156,7 @@
     <ClInclude Include="FileProcessing.h" />
     <ClInclude Include="Preferences.h" />
     <ClInclude Include="Styles.h" />
-    <ClInclude Include="graphing.h" />
+    <ClInclude Include="Graphing.h" />
     <ClInclude Include="NewDefinitions.h" />
     <ClInclude Include="Key Retrieval Functions.h" />
     <ClInclude Include="Line.h" />

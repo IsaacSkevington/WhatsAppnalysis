@@ -371,6 +371,7 @@ public:
 		for (int i = 0; i < textIn.size(); i++) {
 			addGraphText(textIn.substr(i, 1), xPos, yPos + (i * 15), GRAPH_COLOUR);
 		}
+		return true;
 	}
 
 	//Draws axis labels

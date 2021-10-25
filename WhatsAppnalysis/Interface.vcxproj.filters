@@ -24,7 +24,7 @@
     <ClInclude Include="Validation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="graphing.h">
+    <ClInclude Include="Graphing.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="UIFunctions.h">
