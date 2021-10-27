@@ -22,8 +22,6 @@ void MyHandleError(
 //Decrypts a file
 bool decrypt(LPCWSTR pszSource,
     LPCWSTR pszDestination, LPCWSTR password){
-    //---------------------------------------------------------------
-    // Call EncryptFile to do the actual encryption.
     if (MyDecryptFile(pszSource, pszDestination, password))
     {
         return true;
@@ -37,15 +35,7 @@ bool decrypt(LPCWSTR pszSource,
     }
 }
 
-//-------------------------------------------------------------------
-// Code for the function MyDecryptFile called by main.
-//-------------------------------------------------------------------
-// Parameters passed are:
-//  pszSource, the name of the input file, an encrypted file.
-//  pszDestination, the name of the output, a plaintext file to be 
-//   created.
-//  pszPassword, either NULL if a password is not to be used or the 
-//   string that is the password.
+//Decryption back end
 bool MyDecryptFile(
     LPCWSTR pszSourceFile,
     LPCWSTR pszDestinationFile,
@@ -383,15 +373,9 @@ Exit_MyDecryptFile:
 }
 
 
-//-------------------------------------------------------------------
-//  This example uses the function MyHandleError, a simple error
-//  handling function, to print an error message to the  
-//  standard error (stderr) file and exit the program. 
-//  For most applications, replace this function with one 
-//  that does more extensive error reporting.
 
 
+//Handle an error
 void MyHandleError(std::string psz, int nErrorNumber)
 {
-    //TestBox((psz)+itos(nErrorNumber));
 }

@@ -100,7 +100,7 @@ void windowsCreate(HWND handleforwindow) {
 		handleforwindow,
 		NULL,
 		windowClassForWindow22Public.hInstance,
-		NULL                /* No Window Creation data */
+		NULL             
 	);
 
 	if (!handleforwindow22)
@@ -132,7 +132,7 @@ void windowsCreate(HWND handleforwindow) {
 		handleforwindow,
 		NULL,
 		windowClassForWindow23Public.hInstance,
-		NULL                /* No Window Creation data */
+		NULL              
 	);
 
 
@@ -165,7 +165,7 @@ void windowsCreate(HWND handleforwindow) {
 		handleforwindow,
 		NULL,
 		windowClassForWindow24Public.hInstance,
-		NULL                /* No Window Creation data */
+		NULL              
 	);
 
 
@@ -198,7 +198,7 @@ void windowsCreate(HWND handleforwindow) {
 		handleforwindow,
 		NULL,
 		windowClassForWindow25Public.hInstance,
-		NULL                /* No Window Creation data */
+		NULL              
 	);
 
 

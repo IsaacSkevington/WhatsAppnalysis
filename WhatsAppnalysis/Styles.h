@@ -168,14 +168,7 @@ HWND DoCreateTabControl(HWND hwndParent, HINSTANCE hInst, int numItems)
 	int i;
 	TCHAR achTemp[256];  // Temporary buffer for strings.
 
-	// Initialize common controls.
-	//icex.dwSize = sizeof(INITCOMMONCONTROLSEX);
-	//icex.dwICC = ICC_TAB_CLASSES;
-	//InitCommonControlsEx(&icex);
 
-	// Get the dimensions of the parent window's client area, and 
-	// create a tab control child window of that size. Note that g_hInst
-	// is the global instance handle.
 	GetClientRect(hwndParent, &rcClient);
 	hwndTab = CreateWindow(WC_TABCONTROL, L"",
 		WS_CHILD | WS_CLIPSIBLINGS | WS_VISIBLE,
@@ -194,8 +187,6 @@ HWND DoCreateTabControl(HWND hwndParent, HINSTANCE hInst, int numItems)
 
 	for (i = 0; i < numItems; i++)
 	{
-		// Load the day string from the string resources. Note that
-		// g_hInst is the global instance handle.
 		LoadString(hInst, BOXNAMESSTART+i,
 			achTemp, sizeof(achTemp) / sizeof(achTemp[0]));
 		if (TabCtrl_InsertItem(hwndTab, i, &tie) == -1)
@@ -219,7 +210,6 @@ BOOL OnNotify(HWND hwndTab, LPARAM lParam, std::vector<HWND> handlesfordatawindo
 	{
 	case TCN_SELCHANGING:
 	{
-		// Return FALSE to allow the selection to change.
 		return FALSE;
 	}
 

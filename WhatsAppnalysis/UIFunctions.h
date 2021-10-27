@@ -200,19 +200,19 @@ HWND SBCreate(HWND hwndParent, int width, HINSTANCE hInstance, long long int Scr
 
 	// Create the scroll bar.
 	return (CreateWindowEx(
-		0,                      // no extended styles 
-		L"SCROLLBAR",           // scroll bar control class 
-		(PTSTR)NULL,           // no window text 
-		WS_CHILD | WS_VISIBLE | WS_EX_TRANSPARENT | WS_EX_LAYERED   // window styles  
-		| SBS_VERT,         // horizontal scroll bar style 
-		rect.left + (rect.right - width),              // horizontal position 
-		rect.top, // vertical position 
-		width,             // width of the scroll bar 
-		rect.bottom,               // height of the scroll bar
-		hwndParent,             // handle to main window 
-		(HMENU)ScrollID,           // no menu 
-		hInstance,                // instance owning this window 
-		(PVOID)NULL            // pointer not needed 
+		0,                     
+		L"SCROLLBAR",           
+		(PTSTR)NULL,           
+		WS_CHILD | WS_VISIBLE | WS_EX_TRANSPARENT | WS_EX_LAYERED     
+		| SBS_VERT,         
+		rect.left + (rect.right - width),             
+		rect.top,
+		width,           
+		rect.bottom,           
+		hwndParent,           
+		(HMENU)ScrollID,          
+		hInstance,            
+		(PVOID)NULL           
 	));
 }
 

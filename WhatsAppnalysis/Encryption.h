@@ -5,7 +5,6 @@
 #include <conio.h>
 #include "NewDefinitions.h"
 
-// Link with the Advapi32.lib file.
 #pragma comment (lib, "advapi32")
 
 
@@ -38,15 +37,7 @@ bool encrypt(LPCWSTR pszSource,
     }
 }
 
-//-------------------------------------------------------------------
-// Code for the function MyEncryptFile called by main.
-//-------------------------------------------------------------------
-// Parameters passed are:
-//  pszSource, the name of the input, a plaintext file.
-//  pszDestination, the name of the output, an encrypted file to be 
-//   created.
-//  pszPassword, either NULL if a password is not to be used or the 
-//   string that is the password.
+//Encryption backend
 bool MyEncryptFile(
     LPCWSTR pszSourceFile,
     LPCWSTR pszDestinationFile,
@@ -518,14 +509,7 @@ Exit_MyEncryptFile:
 } // End Encryptfile.
 
 
-//-------------------------------------------------------------------
-//  This example uses the function MyHandleErrorE, a simple error
-//  handling function, to print an error message to the  
-//  standard error (stderr) file and exit the program. 
-//  For most applications, replace this function with one 
-//  that does more extensive error reporting.
-
+//Error handling
 void MyHandleErrorE(std::string psz, int nErrorNumber)
 {
-    //TestBox((psz) + itos(nErrorNumber));
 }

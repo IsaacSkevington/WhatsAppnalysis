@@ -1,2 +1,390 @@
 ﻿D:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Interface.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UserInterface.cpp
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\Array Processing Functions.h(69,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\Map Processing Functions.h(122,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\Styles.h(66,1): warning C4005: 'BUTTON_COLOUR': macro redefinition
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\Styles.h(55): message : see previous definition of 'BUTTON_COLOUR'
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\Styles.h(207,8): warning C4101: 'achTemp': unreferenced local variable
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(41,29): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(51,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(56,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(340,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(379,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(380,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(387,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(462,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(465,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(532,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(534,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(616,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(660,111): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(684,99): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(705,63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(895,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(894,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(893,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(892,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(918,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(920,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(929,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(931,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(998,88): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(998,61): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(1003,47): warning C4244: '=': conversion from '_Ty' to 'LONG', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(1004,47): warning C4244: '=': conversion from '_Ty' to 'LONG', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(1009,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(1019,147): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(1019,115): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(1019,86): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(1019,50): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(1114,66): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(1115,66): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(1128,80): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\graphing.h(1148,80): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  The contents of <filesystem> are available only with C++17 or later.
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(48,49): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(223,54): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(266,232): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(303,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(310,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(355,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(356,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(400,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(409,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(418,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(419,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(422,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(423,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(442,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(451,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(460,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(461,81): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(464,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\MultiThread Functions.h(465,81): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\resource.h(17,1): warning C4005: 'IDOK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11117): message : see previous definition of 'IDOK'
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\resource.h(18,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11118): message : see previous definition of 'IDCANCEL'
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UIFunctions.h(96,65): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UIFunctions.h(153,65): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(507,81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1143,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1150,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1153,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1155,69): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1156,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1179,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1185,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1190,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1196,72): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1197,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1255,60): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1264,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1273,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1274,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1277,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1278,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1297,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1300,72): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1305,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1314,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1323,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1324,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1327,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1328,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1331,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1352,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1361,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1370,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1371,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1374,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1375,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1378,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1443,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1444,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1488,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1491,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1497,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1500,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1507,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1510,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1534,135): warning C4805: '!=': unsafe mix of type 'UINT' and type 'bool' in operation
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1623,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1626,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1640,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1643,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1674,60): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1683,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1692,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1693,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1696,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1697,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1718,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1721,72): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1726,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1735,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1744,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1745,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1748,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1749,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1752,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1773,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1782,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1791,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1792,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1795,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1796,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1799,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1829,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1831,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1835,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1848,80): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1852,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1863,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1927,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(1928,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2182,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2188,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2191,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2223,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2229,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2232,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2238,72): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2239,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2325,59): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2334,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2343,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2344,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2347,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2348,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2372,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2381,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2390,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2391,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2394,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2395,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2415,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2424,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2433,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2434,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2437,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2438,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2480,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2483,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2489,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2492,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2499,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2502,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2519,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2522,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2536,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2539,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2608,60): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2617,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2626,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2627,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2630,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2631,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2653,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2656,72): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2661,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2670,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2679,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2680,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2683,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2684,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2687,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2709,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2718,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2727,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2728,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2731,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2732,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2735,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2763,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2765,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2769,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2782,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2786,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2797,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2862,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(2863,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3015,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3142,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3148,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3151,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3155,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3156,69): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3175,59): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3184,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3193,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3194,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3197,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3198,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3224,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3227,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3252,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3253,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3311,59): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3320,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3329,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3330,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3333,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3334,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3403,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3428,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3429,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3487,60): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3496,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3505,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3506,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3509,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3510,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3588,60): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3597,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3606,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3607,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3610,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3611,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3638,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3640,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3644,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3681,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3682,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3847,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3940,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3946,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3948,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3979,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3985,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3988,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3994,72): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(3995,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4093,59): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4102,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4111,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4112,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4115,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4116,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4139,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4148,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4157,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4158,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4161,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4162,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4182,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4191,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4200,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4201,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4204,73): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4205,78): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4244,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4247,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4261,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4264,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4333,60): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4342,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4351,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4352,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4355,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4356,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4378,67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4381,72): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4386,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4395,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4404,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4405,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4408,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4409,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4412,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4434,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4443,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4452,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4453,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4456,74): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4457,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4460,68): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4488,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4490,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4495,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4508,79): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4512,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4523,66): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4595,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4596,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4708,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4714,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4717,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4745,59): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4754,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4763,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4764,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4767,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4768,75): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4808,234): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4841,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4844,63): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4865,60): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4874,65): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4883,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4884,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4887,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4888,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4912,77): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4914,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\WhatsAppnalysis\UserInterface.cpp(4919,64): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+     Creating library D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\x64\Release\WhatsAppnalysis.lib and object D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\x64\Release\WhatsAppnalysis.exp
+  Generating code
+  20 of 8294 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
   Interface.vcxproj -> D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\x64\Release\WhatsAppnalysis.exe

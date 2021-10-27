@@ -157,15 +157,15 @@ int WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrevInst, LPSTR lpCmdLine, int nS
 			si.cb = sizeof(si);
 			ZeroMemory(&pi, sizeof(pi));
 			CreateProcess(progFilePath,   // the path
-				NULL,        // Command line
-				NULL,           // Process handle not inheritable
-				NULL,           // Thread handle not inheritable
-				FALSE,          // Set handle inheritance to FALSE
-				0,              // No creation flags
-				NULL,           // Use parent's environment block
-				NULL,           // Use parent's starting directory 
-				&si,            // Pointer to STARTUPINFO structure
-				&pi             // Pointer to PROCESS_INFORMATION structure (removed extra parentheses)
+				NULL,   
+				NULL,   
+				NULL,      
+				FALSE,
+				0,
+				NULL,
+				NULL,
+				&si,
+				&pi
 			);
 			// Close process and thread handles. 
 			CloseHandle(pi.hProcess);
@@ -232,17 +232,7 @@ int WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrevInst, LPSTR lpCmdLine, int nS
 			L"Window Creation Failed",
 			MB_ICONERROR);
 	}
-	/*MENUINFO menuInfoMenu1;
-	HBRUSH menuColour = CreateSolidBrush(
-		COLORREF(0x999999)
-	);
-	menuInfoMenu1.cbSize = sizeof(menuInfoMenu1);
-	menuInfoMenu1.fMask = MIM_BACKGROUND | MIM_APPLYTOSUBMENUS | MIM_MENUDATA;
-	menuInfoMenu1.hbrBack = menuColour;
-	HMENU hMenu = ::GetMenu(handleforwindow1);
-	SetMenuInfo(hMenu, &menuInfoMenu1);
-	DeleteObject(menuColour);
-	*/
+
 	ShowWindow(handleforwindow1, SW_MAXIMIZE);
 	
 	// create window 2
@@ -1162,7 +1152,6 @@ LRESULT CALLBACK windowprocessforwindow21(HWND handleforwindow, UINT msg, WPARAM
 			);
 			applyStyles(GetDlgItem(handleforwindow, ID_DATA_CHECKBOX1NAMES_LABELS[i]));
 			peopleSelected1[messageAnalyser.people[i]] = true;
-			//totalmessagesprocessOutput += "Total messages sent by " + people[i] + " " + itos(totalmessageseach[people[i]]) + "\n";
 			ShowWindow(GetDlgItem(handleforwindow, ID_DATA_CHECKBOXES1NAMES[i]), SW_HIDE);
 			ShowWindow(GetDlgItem(handleforwindow, ID_DATA_CHECKBOX1NAMES_LABELS[i]), SW_HIDE);
 		}
@@ -2203,7 +2192,6 @@ LRESULT CALLBACK windowprocessforwindow22(HWND handleforwindow, UINT msg, WPARAM
 				(messageAnalyser.people[i]).c_str()
 			);
 			peopleSelected2[messageAnalyser.people[i]] = true;
-			//totalmessagesprocessOutput += "Total messages sent by " + people[i] + " " + itos(totalmessageseach[people[i]]) + "\n";
 		}
 		CreateWindow(L"BUTTON",
 			L" /\\    UP    /\\ ",
@@ -3114,7 +3102,6 @@ LRESULT CALLBACK windowprocessforwindow23(HWND handleforwindow, UINT msg, WPARAM
 		SetWindowTextA(
 			GetDlgItem(handleforwindow, ID_DATA_WINDOW3),
 			"Enter a date range"
-			//(messageAnalyser.totalmsgsprocess()).c_str()
 		);
 
 		CreateWindow(L"BUTTON",
@@ -3167,7 +3154,6 @@ LRESULT CALLBACK windowprocessforwindow23(HWND handleforwindow, UINT msg, WPARAM
 			peopleSelected3[messageAnalyser.people[i]] = true;
 			ShowWindow(GetDlgItem(handleforwindow, ID_DATA_CHECKBOX3NAMES_LABELS[i]), SW_SHOW);
 			ShowWindow(GetDlgItem(handleforwindow, ID_DATA_CHECKBOXES3NAMES[i]), SW_SHOW);
-			//totalmessagesprocessOutput += "Total messages sent by " + people[i] + " " + itos(totalmessageseach[people[i]]) + "\n";
 		}
 		CreateWindow(L"BUTTON",
 			L" /\\    UP    /\\ ",
@@ -3652,13 +3638,10 @@ LRESULT CALLBACK windowprocessforwindow23(HWND handleforwindow, UINT msg, WPARAM
 				checked = IsDlgButtonChecked(handleforwindow, ID_DATA_CHECKBOXES3NAMES[i]);
 				if (checked) {
 					CheckDlgButton(handleforwindow, ID_DATA_CHECKBOXES3NAMES[i], BST_UNCHECKED);
-					//SetWindowText(handleforwindow, _T("Checked"));
 					peopleSelected3[messageAnalyser.people[i]] = false;
-					//LastItSet(1, false);
 				}
 				else {
 					CheckDlgButton(handleforwindow, ID_DATA_CHECKBOXES3NAMES[i], BST_CHECKED);
-					//SetWindowText(handleforwindow, _T("Unchecked"));
 					peopleSelected3[messageAnalyser.people[i]] = true;
 				}
 			}
@@ -3711,9 +3694,6 @@ LRESULT CALLBACK windowprocessforwindow23(HWND handleforwindow, UINT msg, WPARAM
 				for (int i = currentTopDataLine3; i < currentBottomDataLine3; i++) {
 					idDisplayedText3 += lines[i];
 				}
-				//if (currentBottomDataLine2 == lines.size()) {
-					//idDisplayedText2 += lines[lines.size() - 1];
-				//}
 				if (currentBottomDataLine3 < lines.size()) {
 					ShowWindow(GetDlgItem(handleforwindow, ID_DATA_WINDOW3_SCROLL_DOWN), SW_SHOW);
 					ShowWindow(GetDlgItem(handleforwindow, ID_DATA_WINDOW3_PAGE_DOWN), SW_SHOW);
@@ -3918,9 +3898,7 @@ LRESULT CALLBACK windowprocessforwindow24(HWND handleforwindow, UINT msg, WPARAM
 		SetWindowTextA(
 			GetDlgItem(handleforwindow, ID_DATA_WINDOW4),
 
-
 			"No Options Selected"
-			//(messageAnalyser.totalmsgsprocess()).c_str()
 		);
 
 		CreateWindow(L"BUTTON",
@@ -3971,7 +3949,6 @@ LRESULT CALLBACK windowprocessforwindow24(HWND handleforwindow, UINT msg, WPARAM
 				(messageAnalyser.people[i]).c_str()
 			);
 			peopleSelected4[messageAnalyser.people[i]] = true;
-			//totalmessagesprocessOutput += "Total messages sent by " + people[i] + " " + itos(totalmessageseach[people[i]]) + "\n";
 		}
 		CreateWindow(L"BUTTON",
 			L" /\\    UP    /\\ ",
@@ -4018,7 +3995,6 @@ LRESULT CALLBACK windowprocessforwindow24(HWND handleforwindow, UINT msg, WPARAM
 				ShowWindow(GetDlgItem(handleforwindow, ID_DATA_CHECKBOX4PERIODS_LABELS[i]), SW_HIDE);
 			}
 			weeksSelected4[messageAnalyser.allweeks[i]] = true;
-			//totalmessagesprocessOutput += "Total messages sent by " + people[i] + " " + itos(totalmessageseach[people[i]]) + "\n";
 		}
 
 		CreateWindow(L"BUTTON",
@@ -4147,14 +4123,6 @@ LRESULT CALLBACK windowprocessforwindow24(HWND handleforwindow, UINT msg, WPARAM
 		else {
 			ShowWindow(GetDlgItem(handleforwindow, ID_DATA_CHECKBOXES4NAMES_SCROLL_UP), SW_SHOW);
 		}
-		/*if (currentTopCheckboxNamesLine4 == messageAnalyser.people.size() - 9) {
-			ShowWindow(GetDlgItem(handleforwindow, ID_DATA_CHECKBOXES4NAMES_SCROLL_DOWN), SW_HIDE);
-		}
-		else {
-			ShowWindow(GetDlgItem(handleforwindow, ID_DATA_CHECKBOXES4NAMES_SCROLL_DOWN), SW_SHOW);
-		}
-		*/
-
 		if (currentTopCheckboxNamesLine4 + 9 >= (messageAnalyser.people.size())) {
 			ShowWindow(GetDlgItem(handleforwindow, ID_DATA_CHECKBOXES4NAMES_SCROLL_DOWN), SW_HIDE);
 
@@ -4520,13 +4488,11 @@ LRESULT CALLBACK windowprocessforwindow24(HWND handleforwindow, UINT msg, WPARAM
 				checked = IsDlgButtonChecked(handleforwindow, ID_DATA_CHECKBOXES4NAMES[i]);
 				if (checked) {
 					CheckDlgButton(handleforwindow, ID_DATA_CHECKBOXES4NAMES[i], BST_UNCHECKED);
-					//SetWindowText(handleforwindow, _T("Checked"));
 					peopleSelected4[messageAnalyser.people[i]] = false;
 					//LastItSet(1, false);
 				}
 				else {
 					CheckDlgButton(handleforwindow, ID_DATA_CHECKBOXES4NAMES[i], BST_CHECKED);
-					//SetWindowText(handleforwindow, _T("Unchecked"));
 					peopleSelected4[messageAnalyser.people[i]] = true;
 				}
 			}
@@ -4544,7 +4510,6 @@ LRESULT CALLBACK windowprocessforwindow24(HWND handleforwindow, UINT msg, WPARAM
 				currentBottomDataLine4 = 10;
 				if (checked) {
 					CheckDlgButton(handleforwindow, ID_DATA_CHECKBOXES4PERIODS[i], BST_UNCHECKED);
-					//SetWindowText(handleforwindow, _T("Checked"));
 					if (periodSelected4 == "M") {
 						if (i < messageAnalyser.months.size()) {
 							monthsSelected4[messageAnalyser.months[i]] = false;
@@ -4553,11 +4518,9 @@ LRESULT CALLBACK windowprocessforwindow24(HWND handleforwindow, UINT msg, WPARAM
 					else {
 						weeksSelected4[messageAnalyser.allweeks[i]] = false;
 					}
-					//LastItSet(1, false);
 				}
 				else {
 					CheckDlgButton(handleforwindow, ID_DATA_CHECKBOXES4PERIODS[i], BST_CHECKED);
-					//SetWindowText(handleforwindow, _T("Unchecked"));
 					if (periodSelected4 == "M") {
 						if (i < messageAnalyser.months.size()) {
 							monthsSelected4[messageAnalyser.months[i]] = true;
@@ -4628,7 +4591,6 @@ LRESULT CALLBACK windowprocessforwindow24(HWND handleforwindow, UINT msg, WPARAM
 			}
 		}
 
-		//TestBox();
 		if (currentBottomDataLine4 > lines.size()) {
 			currentTopDataLine4 = lines.size() - 10;
 			currentBottomDataLine4 = lines.size();
@@ -4647,9 +4609,6 @@ LRESULT CALLBACK windowprocessforwindow24(HWND handleforwindow, UINT msg, WPARAM
 			for (int i = currentTopDataLine4; i < currentBottomDataLine4; i++) {
 				idDisplayedText4 += lines[i];
 			}
-			//if (currentBottomDataLine4 == lines.size()) {
-				//idDisplayedText4 += lines[lines.size() - 1];
-			//}
 			if (currentBottomDataLine4 < lines.size()) {
 				ShowWindow(GetDlgItem(handleforwindow, ID_DATA_WINDOW4_SCROLL_DOWN), SW_SHOW);
 				ShowWindow(GetDlgItem(handleforwindow, ID_DATA_WINDOW4_PAGE_DOWN), SW_SHOW);
@@ -4759,7 +4718,6 @@ LRESULT CALLBACK windowprocessforwindow25(HWND handleforwindow, UINT msg, WPARAM
 				(messageAnalyser.people[i]).c_str()
 			);
 			peopleSelected5[messageAnalyser.people[i]] = true;
-			//totalmessagesprocessOutput += "Total messages sent by " + people[i] + " " + itos(totalmessageseach[people[i]]) + "\n";
 		}
 		CreateWindow(L"BUTTON",
 			L" /\\    UP    /\\ ",
@@ -4846,7 +4804,6 @@ LRESULT CALLBACK windowprocessforwindow25(HWND handleforwindow, UINT msg, WPARAM
 				xAxisVals.push_back(secondsfind(hour));
 			}
 
-			//handleforsendingTimesGraph = draw(100, 100, handleforwindow, ((LPCREATESTRUCT)lParam)->hInstance, sendingTimesGraph);
 			applyStyles(handleforsendingTimesGraph);
 			sendingTimesGraph = CreateLineGraph(handleforsendingTimesGraph, GRAPH5XSIZE - 100, GRAPH5YSIZE - 100, xAxisVals, yAxisVals, TIMETYPE, INTTYPE, "Hour", "Num Messages", ("Daily messages across " + itos(messageAnalyser.alldays.size())) + " days", GRAPH5XPOS, GRAPH5YPOS);
 			sendingTimesGraph.deselectLOBF();
@@ -4955,13 +4912,11 @@ LRESULT CALLBACK windowprocessforwindow25(HWND handleforwindow, UINT msg, WPARAM
 				checked = IsDlgButtonChecked(handleforwindow, ID_DATA_CHECKBOXES5NAMES[i]);
 				if (checked) {
 					CheckDlgButton(handleforwindow, ID_DATA_CHECKBOXES5NAMES[i], BST_UNCHECKED);
-					//SetWindowText(handleforwindow, _T("Checked"));
 					peopleSelected5[messageAnalyser.people[i]] = false;
 					//LastItSet(1, false);
 				}
 				else {
 					CheckDlgButton(handleforwindow, ID_DATA_CHECKBOXES5NAMES[i], BST_CHECKED);
-					//SetWindowText(handleforwindow, _T("Unchecked"));
 					peopleSelected5[messageAnalyser.people[i]] = true;
 				}
 			}

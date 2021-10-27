@@ -41,17 +41,18 @@ class TextBoxList {
 		ar& IDsUnused;
 	}
 public:
+	std::map<int, TextBox> textBoxes = {};
+	std::map<int, bool> isIDUsed = {};
+	std::vector<int> IDsUnused = populateIDs();
 
 	std::vector<int> populateIDs() {
 		std::vector<int> ids = {};
 		for (int i = 0xF000; i < 0xFFFF; i++) {
 			ids.push_back(i);
-			isIDUsed 
+			isIDUsed[i] = false;
 		}
 	}
-	std::map<int, TextBox> textBoxes = {};
-	std::map<int, bool> isIDUsed = {};
-	std::vector<int> IDsUnused = populateIDs();
+
 };
 
 
