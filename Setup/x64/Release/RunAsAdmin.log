@@ -1,9 +1,9 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (RunAsAdmin.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+﻿D:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(496,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+D:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (RunAsAdmin.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   Setup.cpp
-F:\all\Code\C++\UserInterface\UI\RunAsAdmin\Setup.cpp(30,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\Setup\Setup.cpp(28,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Generating code
   Previous IPDB not found, fall back to full compilation.
-  All 115 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 118 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  RunAsAdmin.vcxproj -> F:\all\Code\C++\UserInterface\UI\x64\Release\Setup\Setup.exe
+  RunAsAdmin.vcxproj -> D:\Users\SSAPP\Documents\code\c++\UserInterface\UI\x64\Release\Setup\Setup.exe
