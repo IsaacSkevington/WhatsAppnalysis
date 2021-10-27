@@ -75,16 +75,16 @@ int main(){
     ZeroMemory(&pi, sizeof(pi));
 
     // start the program up
-    CreateProcess(TEXT(PROGRAMFILE),   // the path
-        NULL,        // Command line
-        NULL,           // Process handle not inheritable
-        NULL,           // Thread handle not inheritable
-        FALSE,          // Set handle inheritance to FALSE
-        0,              // No creation flags
-        NULL,           // Use parent's environment block
-        NULL,           // Use parent's starting directory 
-        &si,            // Pointer to STARTUPINFO structure
-        &pi             // Pointer to PROCESS_INFORMATION structure
+    CreateProcess(TEXT(PROGRAMFILE),  
+        NULL,      
+        NULL,         
+        NULL,         
+        FALSE,       
+        0,             
+        NULL,           
+        NULL,           
+        &si,            
+        &pi            
     );
     // Close process and thread handles. 
     CloseHandle(pi.hProcess);
